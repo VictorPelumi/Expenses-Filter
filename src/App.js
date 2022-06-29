@@ -24,7 +24,7 @@ const DUMMY_EXPENSES = [
   },
   {
     id: "e5",
-    title: "New Desk (Plastic)",
+    title: "New Chair (Plastic)",
     amount: 900,
     date: new Date(2019, 5, 12),
   },
